@@ -1,4 +1,4 @@
-# Interactive Sales Dashboard – Excel-Based BI Project
+# Data-Driven Sales Insights using Excel
 
 Welcome to the **Interactive Sales Dashboard** project! This business analytics solution showcases how sales data can be cleaned, analyzed, and visualized using **Microsoft Excel**. The main objective is to deliver a dynamic dashboard that provides decision-makers with clear insights into key performance indicators (KPIs), enabling smarter and faster business strategies.
 
