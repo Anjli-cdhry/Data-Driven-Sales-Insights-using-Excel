@@ -89,4 +89,4 @@ The dataset includes transactional and customer-level data with the following fi
 
 For queries, feedback, or collaboration, feel free to reach out:
 
-📧 **vinod10302@gmail.com**
+📧 **anjali22.annie@gmail.com**
